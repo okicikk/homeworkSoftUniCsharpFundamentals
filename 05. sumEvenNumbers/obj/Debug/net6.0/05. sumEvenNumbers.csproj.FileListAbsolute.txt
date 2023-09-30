@@ -1,0 +1,15 @@
+C:\Users\okay\source\repos\ArraysLab\05. sumEvenNumbers\bin\Debug\net6.0\05. sumEvenNumbers.exe
+C:\Users\okay\source\repos\ArraysLab\05. sumEvenNumbers\bin\Debug\net6.0\05. sumEvenNumbers.deps.json
+C:\Users\okay\source\repos\ArraysLab\05. sumEvenNumbers\bin\Debug\net6.0\05. sumEvenNumbers.runtimeconfig.json
+C:\Users\okay\source\repos\ArraysLab\05. sumEvenNumbers\bin\Debug\net6.0\05. sumEvenNumbers.dll
+C:\Users\okay\source\repos\ArraysLab\05. sumEvenNumbers\bin\Debug\net6.0\05. sumEvenNumbers.pdb
+C:\Users\okay\source\repos\ArraysLab\05. sumEvenNumbers\obj\Debug\net6.0\05. sumEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\okay\source\repos\ArraysLab\05. sumEvenNumbers\obj\Debug\net6.0\05. sumEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okay\source\repos\ArraysLab\05. sumEvenNumbers\obj\Debug\net6.0\05. sumEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\okay\source\repos\ArraysLab\05. sumEvenNumbers\obj\Debug\net6.0\05. sumEvenNumbers.AssemblyInfo.cs
+C:\Users\okay\source\repos\ArraysLab\05. sumEvenNumbers\obj\Debug\net6.0\05. sumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\okay\source\repos\ArraysLab\05. sumEvenNumbers\obj\Debug\net6.0\05. sumEvenNumbers.dll
+C:\Users\okay\source\repos\ArraysLab\05. sumEvenNumbers\obj\Debug\net6.0\refint\05. sumEvenNumbers.dll
+C:\Users\okay\source\repos\ArraysLab\05. sumEvenNumbers\obj\Debug\net6.0\05. sumEvenNumbers.pdb
+C:\Users\okay\source\repos\ArraysLab\05. sumEvenNumbers\obj\Debug\net6.0\05. sumEvenNumbers.genruntimeconfig.cache
+C:\Users\okay\source\repos\ArraysLab\05. sumEvenNumbers\obj\Debug\net6.0\ref\05. sumEvenNumbers.dll
